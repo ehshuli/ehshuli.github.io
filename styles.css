@@ -458,7 +458,7 @@ footer div ul {
 
 /* Media Queries */
 @media screen and (max-width: 480px) {
-    nav .nav-list  {
+    .nav-list  {
         flex-direction: column;
     }
 
@@ -472,7 +472,7 @@ footer div ul {
 }
 
 @media screen and (min-width: 480px) and (max-width: 768px) {
-    nav .nav-list  {
+    .nav-list  {
         display: inline-block;
         margin: 0 10px;
     }
